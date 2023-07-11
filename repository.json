@@ -1,5 +1,5 @@
 {
   "name": "Home Assistant Add-on: Omada Controller",
-  "url": "https://github.com/lougovsk/ha-omada-controller-addon",
-  "maintainer": "Alexander Lougovski"
+  "url": "https://github.com/hannpet/ha-omada-controller-addon",
+  "maintainer": "unmaintained, forked from Alexander Lougovski"
 }
