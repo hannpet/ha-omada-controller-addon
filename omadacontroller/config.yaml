@@ -3,7 +3,7 @@
     "version": "5.9.0",
     "slug": "omada_controller",
     "description": "TP-Link Omada Controller software v5",
-    "startup": "service",
+    "startup": "services",
     "arch": [ 
        "aarch64",
        "amd64"
