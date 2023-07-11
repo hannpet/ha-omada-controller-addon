@@ -4,6 +4,7 @@
     "slug": "omada_controller",
     "description": "TP-Link Omada Controller software v5",
     "startup": "services",
+    "backup": "cold",
     "arch": [ 
        "aarch64",
        "amd64"
